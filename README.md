@@ -12,4 +12,4 @@ Figure 1 shows the results of the first sentiment analysis using the Bing lexico
 
 Performing another sentiment analysis with the nrc lexicon (Figure 2), I see the same pattern: There’s more positive words than negative words, and more “positive” emotions than negative emotions. Futhermore, when expanding this analysis to compare comment sentiment across channels (Figure 3), I do not see significant variation.
 ![](https://github.com/JohnM-Eaton/Content_Analysis_YT_2020_Debates/blob/main/Figure%202-%20NRC%20for%20all.svg)
-![](https://github.com/JohnM-Eaton/Content_Analysis_YT_2020_Debates/blob/main/Figure%201-%20Bing.svg)
+![](https://github.com/JohnM-Eaton/Content_Analysis_YT_2020_Debates/blob/main/Figure%203-%20by%20channel.svg)
