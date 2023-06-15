@@ -6,3 +6,7 @@ With these criteria in place, the debate videos came from the following YouTube 
 Table 1 shows a breakdown of the metadata for each YouTube video including the number of views, likes, dislikes, and the number of comments each video received. Notably, across these six channels, there were 36,489,491 viewers and 183,471 comments. Given the substantial amount of text (comments) to work within this first debate, we felt it is appropriate to place our focus here, rather than all the debates.
 
 ![](https://github.com/JohnM-Eaton/Content_Analysis_YT_2020_Debates/blob/main/Table%201.png)
+
+Figure 1 shows the results of the first sentiment analysis using the Bing lexicon. Recall, CSPAN had over 80,000 comments, while CBS news had about 6,000. This explains the substantial difference in the number of words. The main point here, in any event, is two-fold. One is that across the channels, there’s the same pattern. Which is that there are more positive words than negative words. Given the overall negative consensus towards both candidate performances in the aftermath of the debates, this is quite surprising.
+
+Performing another sentiment analysis with the nrc lexicon (Figure 2), we see the same pattern: There’s more positive words than negative words. And more “positive” emotions. This is across all channels. 
